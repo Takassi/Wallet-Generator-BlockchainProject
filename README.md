@@ -1,6 +1,6 @@
 # Gerador de carteiras utilizando JS
-Projeto sem frotend..
-Criando e utilizando a **carteira de criptomoedas**.
+#### Projeto sem frontend..
+#### Criando e utilizando a **carteira de criptomoedas**.
 
 Electrun testnet 4.2.2 (importar carteira gerada)
 Bitcoin Faucet Generator (criptomoedas de teste) receber e enviar criptomoedas
